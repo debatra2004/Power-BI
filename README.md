@@ -1,0 +1,1 @@
+Visualization of data of various data like- visualizing atrition by various parameters of employees, relationship between different parameters and sale of a superstore, football worldcup winners statistics of past years.
